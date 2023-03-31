@@ -1,4 +1,4 @@
 # 100 Codings Days
-## Day 1: (01/04/2023):
+## Day 1: (1st April 2023):
 
-First day of the challenge
+First day of the challenge started the day of my birthday
