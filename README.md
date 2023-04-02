@@ -1,6 +1,6 @@
 # 100 Codings Days
 Building BNEAY simple Chatbot.
-This project is way for me to talk about what i'm passionate about (machine learning), Learn new things related to that field, and at the same time apply what im learning currently in software engineering to build a simple chatbot ad deploy it on a website for people to test.
+This project is way for me to talk about what i'm passionate about (machine learning), Learn new things related to that field, and at the same time apply what I'm learning currently in software engineering to build a simple chatbot and deploy it on a website for people to test.
 
 Stay tuned for the whole duration of this projects to travel and discover new stuff with me this whole journey.
 
