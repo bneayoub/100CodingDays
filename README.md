@@ -21,4 +21,4 @@ Once the text has been tokenized, it can be used as input to other NLP processes
 
 ## Day 2 & 3: (2d and 3d April 2023)
 I started checking for ways to collect Data. One way seemed to be getting a ready file of Data that has at least 1 million characters from Kaggle, one file seemed to be really interesting was a Shakespeare transcript with all shakespeare work. This alternative is easier and time reducing for this step, but I'll keep it as a second plan.
-My first plan is to try web scraping the famous forum "Reddit". Reddit has a lot of text and lot of conversations and comments on different topics. Getting this data, clean it, and structure it the right way may be really the way to got to build a consistant chat bot. for the next day, that would be the approach to follow.
+My first plan is to try **web scraping** the famous forum "Reddit". **Reddit** has a lot of text and lot of conversations and comments on different topics. Getting this data, clean it, and structure it the right way may be really the way to got to build a consistant chat bot. for the next day, that would be the approach to follow.
