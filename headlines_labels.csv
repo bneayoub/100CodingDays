@@ -1,0 +1,505 @@
+headlines,label
+"Introducing DataFrame QuickView: A Python package for easy DataFrame visualization, co-created with GPT-4! Seeking contributors 🚀",1
+Keystroke Dynamics -- Predicting the User — Lambda App,1
+Be confident in your requirements list with bonded,1
+Is E501 (79 character lines) still relevant?,0
+yoyo-migrations performance feedback,0
+New release of FastKafka supporting Redpanda,1
+Preparing a consistent Python environment [to build a C program],0
+Lexica.art : An easy-to-use Python API wrapper for Lexica.art to generate and search for AI produced images,0
+Is Python 3.rd party libraries are legit safe to pip install?,1
+Any way to short circuit parsing in html.parser?,0
+Managing secrets like API keys in Python - Why are so many devs still hardcoding secrets?,1
+Renaming Starlite to LiteStar,0
+Galactic Something,0
+Auto Login and Auto Prompt for non api chat gpt. No cloudfare so far!!,-1
+PEP 710 – Recording the provenance of installed packages,0
+bma_benchmark - a simple benchmark module,0
+[I] created a discord chatgpt bot.,0
+How easy is Python compared to C++ truly?,1
+"Python Cybersecurity — Build your own python tools (PortScanner, Visual Network Tracker and Anonymous FTP Scanner)",0
+"Polars for initial data analysis, Polars for production",0
+Alternative to Pygments,0
+pyWave - Financial transaction tracker.,0
+Analysing the emotion timeline of the Enron scandal through their internal emails in Python,-1
+Was there a reason the post regarding the Devpost Python Hackathon was removed?,0
+python security - very simply open source scanner which detect file signed untrusted or leaked certificates,0
+What projects use ebooklib,0
+I made a tool for generating library cover images with the same font/styling as Jellyfin's.,0
+My first app in Tkinter - Bézier curve read off,0
+Lib for dynamically generating classes from json or dict on runtime,1
+"Easy python module for understanding. recently I have been learning the Oops concepts in python, but I don't feel satisfied in applying those to actual scenarios. can any one please suggest any already developed python module so that I can see the actual Oops concepts involved while development.",1
+"Anyone know if python can be used to make a MATLAB simulink clone (dragging and dropping elements)? If not, do you have recommendations of other languages that can do this best to make a desktop app?",1
+I made a Data Science project (Time Series Analysis Methods - Data Analysis & Machine Learning) using Python and uploaded it to the Youtube,0
+"Does it make more sense to learn Python myself and do the programming on my project later, or should I hire someone to create the project for me, that I can then take over once I learn it?",1
+Simple but useful decorators to save input of a file as pickle,1
+[Girok] Pretty cool CLI task scheduler for geeks,1
+"Python Flask Web App, Quiz on Opening Day Baseball Players",0
+Introduction to Contrastive Learning,0
+Useful helper libraries,1
+Infrastructure from Python Code: How Far Could we go?,0
+Zero is now in beta! 🙌 A fast and easy-to-use RPC framework 🚀,0
+Cheshire Cat - Open source layer on top of any language model (extendible via plugins),1
+Alarm clock made with Python & Kivy,-1
+Personal Project - JDR Tool Introduction,0
+Live Tutorial on Scaling Python with Dask and Coiled (April 13),0
+Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager,0
+What about designing carbon effective data science workflows?,1
+How to Read Python Input as Integers – Real Python,0
+I Build a very simple Dalai Alpaca Instruction Bot with Python as Proof of Concept.,0
+Github Action and Pre-commit hooks,0
+AOS-GUI 0.8 is out now!!,0
+(Flask) Personal portfolio website - Template,0
+Hikaru 1.0.0 released,0
+docked: A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python.,1
+How to make an API request to an AWS microservice that is protected by IAM auth,1
+Birthday paradox,0
+Super Fast Proxy Fetcher for developers,1
+chat-toolkit: an extensible package for creating ML-powered chatbots,1
+Why you need to use CBVs over FBVs in django,0
+"Making a script that checks Twitch chat emote usage, channel has 828 emotes, VOD has 41,033 lines of chat. was blown away by how fast it took to run. 93ms.",0
+I did a Data Analysis Project in Python and shared it on Youtube with Data Set,1
+Panther - Throttling (Day 1),0
+QualityScaler 1.12 - image/video AI upscaler,0
+Reduce - The Power of a Single Python Function,0
+another 4x to 5x speed up in calling #WASM #WebAssembly from python is on the horizon,0
+"I wrote a small polygon ""renderer"" for .wav files to tell my gf I love her",1
+Time Complexity and Big O Notation,0
+Is it a good time to use asyncio?,1
+Python code to retrieve NSE Option Chain data in Tabular form,0
+Open-source Mathematical Python Lib,0
+"Network Communication in Python: Sockets, Requests, and Urllib",0
+Fpdf2 latest new features,0
+Django model constrains write up,0
+Text Parsing: Now You Have Three Problems (David Beazley),-1
+"The SC has decided to reject PEP 582 (Python local packages directory) , at least in its current form.",-1
+Python-based (or usable through command-line) synths and samplers,0
+Making an ASGI Micro Framework,0
+Cy-root: Python package containing root-finding methods written in Cython,0
+Nanobind is a small binding library that exposes C++ types in Python and vice versa,0
+"Hello everyone, this is my deep learning project to recognize pokemon by image on Github, hope you enjoy!",1
+Python on Silicon Mac,0
+Step-by-step tutorial on Web Scraping with Python with code snippets,0
+What are your thoughts on Codon compiler having a paid licence?,0
+FluidFrames 1.13 - video AI interpolation app (RIFE-HDv3),0
+I am an incoming Aerospace Engineering undergrad and would like some feedback,1
+Suggestions Conda pkg development cycle,0
+Instruct-NeRF2NeRF: An AI Method For Editing 3D Scenes With Text-Instructions,0
+Scrape each question on StackOverflow along with the best answer,1
+OpenConnect Linux GUI Front-end With Tkinter,0
+Pandas 2.0 rc1 is released,0
+Automate Your Stock Trading with Investopedia-Bot,0
+Seeking early feedback on MegaMock - a dev experience upgrade to mocking,-1
+How to Evaluate the Quality of Python Packages,0
+Showcasing a 2D scrolling shooter game,0
+I Built a Streamlit App to Generate Websites in Seconds,0
+I made a file manager in python,0
+Pandas 2.0.0,0
+When Should You Use .__repr__() vs .__str__() in Python? – Real Python,0
+Why do people use piglet when python arcade uses pyglet pymunk and some in house stuff,0
+QNX Demodisk Utilities,0
+"Another episode of the office-racer (Python, websockets,...)",0
+Malicious Actors Use Unicode Support in Python to Evade Detection,1
+ReactPy: Build ReactJS Interfaces in Pure Python,0
+Is there a syntax highlighter that changes colour of the token based on its return type?,0
+MIT Turbocharges Python’s Notoriously Slow Compiler,0
+Daft: The Distributed Python Dataframe,0
+Announcing sequence_align: an open-source Python + Rust toolkit for efficient sequence alignment,1
+What is the your biggest problem while coding? (Please leave a comment),-1
+Python Verse Series: The Ultimate Guide for Beginners in Python!,0
+Part time work/roles using python.,0
+ChatGPT int the Terminal!,0
+"Python Beginner, Need some advice/route-map to get an Entry-level jobs.",0
+Algebraic Data Types in (typed) Python,0
+Difference Between seek() & tell() And How To Use,0
+Singular Value Decomposition and Image Processing using Python,1
+🐍Music video clip by every word is a Google image🎵,0
+ghstars: ⭐️ Collect and render most notable stargazers for your GitHub projects,0
+Create an ai with python,1
+Python and SLSA 💃,0
+"Build your own python security tools - PortScanner, Visual Network Tracker and Anonymous FTP Scanner",1
+Simple Multiplayer Game with Asyncio,0
+TLDR: An extension that uses OpenAI's api to summarize and help you analyse articles,1
+"Pants ""Environments"": simpler multi-platform workflows",0
+Freak: remote state control,-1
+"Open source tool Pair, An iterative, stateful chat-like interface for programmers to pair programming with GPT-4",0
+Mypy 1.2 Released,0
+For Fun: Building an Algo with TF and Keras to Read the News and Predict Stock Prices,1
+Am I the only one who doesn’t like this language?,1
+Blinker 1.6 Released!,0
+Are Variables Labels or Boxes?,0
+What is important to know to gain full ownership of your project before posting it on the playstore?,1
+What am I missing to be hired as a Python Developer?,-1
+Stock tracker,0
+Remove typing/stubs packages in production,0
+ChatGPT + Selenium - Login+Captcha Bypass,0
+Voice Assistant,0
+"Book recommendation, advanced+ level in Python",0
+pywinterminal -- fun project for Windows/Linux admins,1
+The Ultimate Swiss Army Knife for handling files and directories in your python code!,0
+Python Platformer Game Tutorial for Beginners [1:52:06],0
+PEP 701 – Syntactic formalization of f-strings has been accepted,1
+"Scripting is prototyping, nothing more but nothing less!",0
+Sites to keep devops/software engineer skills sharp,0
+Debugging script without any documentation,0
+Executing Python Scripts With a Shebang – Real Python,0
+Shed Skin now has native Windows support,1
+Just built my first address book in Python and I'm super excited to share it with y'all!,1
+"What is best for making own language in python interpreter , terminal or compiler just asking for gernel knowledge nothing else",1
+Using Python Code in Android Studio With Chaquopy,0
+refine a pslg with iterated snap rounding,0
+Here is how i made a 2D game using Python Matplotlib,0
+Many rows -> kernel died,-1
+Comprehending The Gripping Roles of Python Developers in Data Science,0
+Are people abusing Python?,-1
+New Release: ChatGPT desktop application written in Python,0
+Unit testing. How do I do it?,0
+"The Python on Microcontrollers Newsletter, a free weekly news and project resource",1
+Python Web Scraping Delay,-1
+Flask app with PostgreSQL (CRUD operations),0
+Welcome to the PyPI Blog,1
+Input on designing an introduction to python course,0
+Web Scraping Amazon using Python,0
+API Access and Token Introspection with OpenID Connect in ZITADEL,0
+README-AI: automated README creation and codebase documentation!,1
+Chain together LLMs for reasoning and orchestrate multiple large models for accomplishing complex tasks like phoning someone using a GPT-4 model,1
+An Instruct Version Of GPT-J Using Stanford Alpaca's Dataset,0
+"A heuristic for lazy-splitting, reading the first n token-separated subarray/substrings of a bytearray/string without actually splitting it entirely --- works faster than Python's own split on larger streams",0
+I used Python to create a Virtual Assistant that allows you to speak to and get verbal responses from ChatGPT,1
+Accelerate Hyperparameter Tuning with fal-serverless,0
+"Generate images with DALL-E for free, in one line of code [UPDATED VERSION]",1
+Building a Shiny for Python App,0
+I made a data analysis project in Python and uploaded it on Youtube,0
+All coders and developers please help!,1
+Fitness Tracking using Python & Mediapipe Tutorial -Angle Tracking,1
+I've made a simple and extendable utility to perform tests coverage analysis,0
+Rubbrband: Python CLI for finetuning Stable Diffusion,1
+ckit: Create a user interface for your frequently used commands with simple yaml files.,1
+Summer timezones,0
+Meta Pseudo Labels (MPL) Algorithm,0
+19 Sweet Python Syntax Sugar for Improving Your Coding Experience,1
+Youtube downloader,0
+DataMotto: Write Python code with the speed of AI,0
+Build your own dataset generator with Python,0
+The beginner questions man…,0
+Machine Learning with Project - Complete Tutorial,0
+Random Settler's Of Catan Board Generating Program,0
+Finding memory corruption bugs in Python libraries,0
+bare-bones terminal interface for chatGPT,0
+"Redditors, anyone knows a good Dashboard example that we can get some inspiration from to manage a Statistical process control to have in a manufacturing environment?",1
+Python's del: Remove References From Scopes and Containers – Real Python,0
+A quick test of ChatGPT for the use of writing code,0
+I've created one of the Fastest Python web Frameworks!!,1
+Introduction to __getitem__: A Magic Method in Python - KDnuggets,0
+"Anyone see a danger in allowing wild west rules for ' vs "" in strings?",-1
+Go Check Out My Cool Web3 & Trading Dapp Available On Pypi,1
+Lona - create full web-applications from a simple Python script,1
+Extracting Data from Wikidata Using SPARQL and Python,0
+"discord bot i wrote in about a day, thought you guys would like it :)",1
+PyGames - Build an open source python game for $12.7K in prizes (Now Open Globally),1
+Course that can help you with the deployment part of things,1
+How to keep a command prompt window open after subprocess is launched in it and completes,0
+PyArrow Strings in Dask DataFrames!!,0
+"Flask input validation into SQL, but still getting to work with the raw SQL INSERT",0
+Customs Inspector - Easy manual auditing of Python Poetry package updates,1
+"People who work in Finance and use Python, what do you do with Python?",0
+"I've been having a lot of problems with yfinance, the original Yahoo Finance API wrapper so I switched to yahoo-fin which is much better. I'm building my own dividend portfolio tracker with it. Also, the first minute is my cat interrupting my video. Enjoy!",1
+Using Python to stream data at scale to and from pandas data frame + Intro offer,0
+Sunday Daily Thread: What's everyone working on this week?,0
+Made a basic overhead game cam using a ray casting system I made,0
+Create Stock Sentiment Analysis in Python using chatGPT | Adnan's Random bytes,1
+Impressions and interesting talks from PyData NYC 2022,1
+Python-Selenium-Action: Easily Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!,1
+Taskiq: async celery alternative,0
+Persistent and addable text for video files (repo feedback),0
+Reverse-engineered Skyscanner API to return a feature they removed,0
+ML models for User Recognition using Keystroke Dynamics,1
+"Introducing Pysura, now in beta.",0
+Speeding up text processing in Python (is hard),0
+I made a Conway's game of life in a Python GIF exporter!,0
+Fastest and slowest docker images for python2,0
+Wednesday Daily Thread: Beginner questions,0
+Workshop: Algorithmic Trading,0
+Introducing the Data Wrangler extension for Visual Studio Code Insiders,0
+Solving a simple problem with ML,0
+A Python Crash Course for Software Engineers,-1
+Build an open-source Python Game - $12.7K in prizes.,1
+"Geometry dash, in Python!",0
+chatGPT can never replace programmers,0
+Bobtail static files - A little Python http framework,0
+Controversial opinion: stop importing single-use symbols in global scope,-1
+Machine Learning Course with Python: From Linear Models to Deep Learning,0
+Building a Remote Controlled Skateboard Ramp in Python,0
+Mercury – Turn Python Notebooks to Web Apps,0
+Dive deeper into Django or learn other micro frameworks like Flask or FastAPI?,1
+Python software developer role is really profitable?,1
+I created a Porsche Model Classification AI using Deep Learning,1
+gRPC and Pydantic,0
+my first rock paper scissors game as a python newbie (code is not that great but it works),-1
+Spotr - a simple spotify CLI made in python,0
+"Warning, Streamlit collects a lot of data!",-1
+FCL (function-centered-language) is a functional language written in Python,0
+Check out `gptty`: a CLI wrapper for ChatGPT written in Python,0
+Pytorch 2.0 released,0
+Analyzing Interactions in a Slack Communication Network - using NetworkX,0
+pytest tips and tricks,0
+Pandas 2.0 Released,0
+GitHub - INeddHelp/PyPuts: Open source library for colorful text in python,0
+Python Package to build ETL flows/dags,0
+"I didn't like that Pandas doesn't have a .notin method, so I made it myself.",-1
+Book that reads more like a tutor,1
+Why use classes?,0
+[cgpt] Python Module to use chat GPT inside your LAN,0
+Writing python extensions never been easier… with Rust and PyO3,0
+How do you decide to use a Python Package,0
+"Handling Files In Python - Opening, Reading & Writing",0
+Want to create a Telegram bot by using Python? Here is what you need to know,1
+Manipulate file input to post to Python's WebSSH server?,0
+Debugging Python Code Is Like Detective Work,1
+Python uuid-utils in Rust,0
+What are some projects on GitHub you support either through contribution or sponsorship?,1
+🦄 uniswap-universal-router-decoder ✨ v0.8.0 ✨ has just been released !!,0
+PyDict3class Generator Claas and Objekt from dict or JSON,0
+Layouts in PyQt6!,0
+Python package to download manga from mangadex.org as PDF or imgs : mangadex-dl,0
+Code Editor made with PySide6,0
+"Blaise Pabon on his developer journey, open source and why Python is great [Podcast]",1
+Speed | When has it been an issue for you?,0
+Implementing a BackgroundRunner with Flask-Executor,0
+Middle level book to study Python,0
+"Pip, Private CAs, and Root Only vs Bundle Cert Specification",0
+I made a program to download / back up all of your saved Reddit content,1
+How to Build Python Media Player with PyQt5,0
+Generating PDF files via FastAPI and sending the file to the user's email. (Currently using PyPDF2),0
+Python Hackerrank Series | Practice the Interview Problems,-1
+I've been working on a password generator for the past 4 months and I would like your feedback.,1
+Improve your Python code with pre-commit,1
+This might be the most beautiful piece of code I ever made myself,1
+What is like to work at Anaconda,1
+"So, You Recommended a Python Time-Series Package … Now What?",1
+How to test Python Programs with Pytest,0
+Matrix Rain Effect,0
+"Presenting gptty v0.2.5 - Enhanced CLI Wrapper for ChatGPT with Context Preservation, Query Support & More!",1
+disallow-import-star: stop your users from using import *,-1
+Alternate python spacing.,0
+I built a Hosted Python bot that responds to my iMessages,0
+Our latest image classifier: because spotting a fake Pope in a puffer jacket or a fake Trump arrest just got a whole lot easier!,-1
+"Hello, I made a program called PyKorean.",0
+I explained threading by making a cup of tea. Please give me honest feedback.,1
+"Python 3.11 is much faster , but is it good for competitive programming?",1
+Accessing MS Access databases from Python and Django,0
+Build a Maze Solver in Python Using Graphs – Real Python,0
+"I just finished doing my 3rd Python course, what should I do next?",0
+"I appreciate all the support of Part 1. Here's Part 2 of creating my own dividend tracker using yahoo-fin instead of yfinance which has been giving me problems. In this video, I get the monthly dividend and plot it out temporarily using matplotlib and will be in plotly dash next video. Enjoy!",1
+What if FastAPI was 100x faster and supported NumPy arrays and Pillow images?,1
+Simple Beginnings,0
+I created a programming language similar to assembly,1
+Pricing python scripts?,0
+BRL-Slate-Reader: A tool allowing for OCR of scanned images of Braille that was written on a slate!,0
+Relieving your Python packaging pain,-1
+Using Python and OpenAi API to generate YouTube titles,0
+QLineEdit in PyQt6! How to Access User Input in Your GUI!,0
+Create Your Own Code Editor Using PyQt5 #9 - Fixing Bugs and Adding Few Features,1
+Converting a huge CSV file into a custom made table,1
+VeraDungeon Rogue - A roguelike game in Python,0
+GPTerminator - ChatGPT in the Terminal UPDATED,0
+The Ruff python linter is insanely good,1
+I created Pamet - a FOSS desktop app for organizing thoughts and notes,1
+Reverse Engineering Read Later Data from the Apple News App,0
+🌟 Learn to create Computer Vision and Natural Language Processing with TensorLayerX's Classic and SOTA Models 🌟,1
+Arguments against separating `test` from `src` in a python package?,-1
+"GitHub - madawei2699/myGPTReader: myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice. (a Python project)",0
+Project Ditto - Python Based Pokemon Clone,0
+Integrating ChatGPT in a python webapp (Django),0
+Open Source Voice Assistant,0
+Unleashing the Power of Memphis.dev: A Guide for Developers and Data Engineers,0
+RedditWarp: A comprehensive and type-complete library for interacting with the Reddit API,1
+FastAPI 0.95.0 supports and recommends Annotated 🚀 [cross-post from r/FastAPI],1
+Python executable makers,0
+Build and run your Python web scrapers in the cloud with Apify SDK for Python,0
+authentik on Django: 500% slower to run but 200% faster to build,0
+Anyone else attending PyCon Italy?,0
+Building and Training Vision Transformer from Scratch,1
+"I wrote a detailed guide of how Pandas' read_csv() function actually works and the different engine options available, including new features in v2.0. Figured it might be of interest here!",1
+Tuesday Daily Thread: Advanced questions,1
+"Using ""any"" and ""all"" in Python",0
+"Is geopandas right for this use case or should I be looking at something else? Looking to create, manipulate, and measure closed polylines with arc segments across a shared geometric space.",1
+Building Machine Learning-Enabled Web Applications with Django and Scikit-Learn Introduction,0
+Seeking Help on Best Fit Teaching Materials for a Non-Teacher,1
+SpotiFile : Music scraping made easy,1
+"Twitter API - free, no tokens required",1
+Position Embedding: A Detailed Explanation,0
+I made a tic tac toe game with 98 lines of code. Is this good for a beginner?,1
+Python News: What's New From February 2023 – Real Python,0
+NiceGUI 1.2 paves the way for Electron-like capabilities,0
+GitHub - INeddHelp/PySwissArmy: PySwissArmy is a Python utility library designed to make common programming tasks easier.,1
+Accessible and lightweight theme for Pelican,0
+rain alert for gf,1
+versionedobj 2.0.4 is out!,0
+Want to get better at Dask Dataframes? Free tutorial 04/05,1
+Created my first project 'macpip',1
+Refactor untested code with PyTest,0
+Python sort vs sorted - Detailed Comparison With Code,0
+"I developed a CLI tool for querying CSV, Parquet and JSON files",0
+python filename linter : a small pre-commit hook I made to lint python files and their folders to be snake_case,0
+How to write long integers EASILY!,1
+First Flask project - YouTube video downloader,0
+Hey folks! Need help with DSA prep,1
+Graphs in Python web app,0
+TUI app with 100+ interactive Python Regex exercises,0
+How to Ban 1+N in Django,-1
+Python 2 to 3 work around,0
+how to: not be a nester when doing loops,0
+"Re-usable engine for classic ""snake"" game",0
+Is Functional programming & list comprehension faster than the traditional 'for' & 'if'? Does lesser iterations increase the speed?,1
+A Python Program for Palindrome Enthusiasts - Beginner Friendly!,1
+Pydantic V2 Pre Release,0
+Learn Python Programming --- Python for Beginners (Legacy course),0
+Python-embedded SQL Engine powered by ClickHouse,0
+TUT | quick video tutorial about self-hosting APIs,0
+Is anyone using Python and GPT4? I just started using python for the first time.. mind is blown.,0
+"Introducing gptty v0.2.1 - A Powerful CLI Wrapper for ChatGPT with Context Preservation & Query Support, Now on PyPI!",1
+popularity behind pydantic,1
+GitHub - blipk/pysh: bash in python,0
+👉 New Awesome Polars release! 🚀 What's new in #Polars? Let's find out!,1
+Tools for address verification/repair,0
+"Thursday Daily Thread: Python Careers, Courses, and Furthering Education!",0
+Zang - A dynamically typed programming language made in python,1
+Check out Codon: A Python compiler if you have a need for C/C speed,0
+Recommendation for courses to learn Selenium with Python,0
+Coder Wanted - Motorsports/Racing/Time Attack Project Nearly Complete,-1
+Starlite updates March '22 | 2.0 is coming,0
+How to Scrape Twitter Data Using Python Without Using Twitter’s API,0
+"In light of PEP 668, I'd like to share how my package handles virtual environments.",1
+I wrote a script to turn a satellite dish into a microwave camera,0
+Opinion on the monaco lib ?,0
+Install Python Libraries Using Command Prompt,0
+Learn Python using Minecraft,0
+A countdown timer in your terminal,0
+I am building a ReadMe for tips on coding with python. It is for beginners and gives you a some nice tips on different situations when programming with Python,1
+v0.2.0 Envio - The Trending Modern And Secure CLI Tool You Absolutely Need For Your Environment Variables,1
+Django Developers Survey 2022 Results,0
+Textual 0.16.0 adds TabbedContent and border titles,0
+Free-to-use GPT-3 powered command-line shell (no API-key required),0
+Made a Python package for extracting color palettes from images,0
+Reverse Engineering LED Lights with Python to Turn Your Monitor into an Ambient Monitor,0
+Going to fail an Exam because I wasn't prepared,-1
+"Building A Custom Geocoding Service With Autocomplete Using Python, PostGIS, And OpenLayers For Address Lookup",0
+Python script to generate Table of Contents of a users Github gists,0
+"Willpyre: Zero Dependency, ASGI compilant Micro Web-framework",0
+🎙️ Introducing an Impressive Streamlit Audio Recorder Custom Component for Python Enthusiasts! 🚀 Star the Repo & Enhance Your Apps! 🎵,1
+A fast way to create custom GUIs using Qt-designer and other lightweight library in python,1
+Little guidance of a python newbie,0
+A Python library that hashes text to a port number in the dynamic range (49152-65535),1
+Image files as input using GPT-3 with Python,0
+Textual 0.18.0 adds an API for managing concurrent workers,0
+Anaconda Aims to Democratize Python with PyScript,0
+reddit downloader in python,0
+A system for deep learning and reinforcement learning.,0
+Orm or not Orm? Mayim?,0
+I wrote a program that calculates the difference between two files,0
+Solomon: Data Exploration tool.,1
+"Why not tell people to ""simply"" use pyenv, poetry or anaconda",0
+Simple Transformer based Optical Music Recognition,0
+Building And Distributing A macOS Application Written in Python,0
+Figuring out how to distribute Python Main and Submodules on PyPi,0
+"Theine 0.3.3 released, introducing new Clock-Pro eviction policy",-1
+Codon: Python now superior performance to C++ . Is Python now undisputed > than C++,1
+I made a cli tool to convert m3u to pyradio playlist.,0
+Python libraries,0
+What is the funnest project you worked on?,1
+Python + Chat-GPT4 = Sports Score Bots,0
+I didn't realize that Jupyter was such a great tool..its now my favorite IDE,1
+Linked Lists in Python!,0
+What you can do in 24 hour?,0
+Hi there I’ve been trying to write a python code using openCV to count British coins in an image.,0
+Is setting up React with Python difficult?,-1
+Rooshk - A command line sandbox god mode game!,1
+PyIntellect Python Code Obfuscator.,0
+"Austin, the CPython frame stack sampler, is now available from PyPI",0
+Smarty-GPT: wrapper of prompts/contexts,0
+Deploying ML model,0
+"Monty Hall Problem, Simulation and New Perspective",-1
+Simplify a polyline or polygon with Visvalingham-Whyatt or Douglas-Peucker,0
+Wayback machine for pip requirements.txt,0
+Which GUI module is better in Python? tkinter or PyQt or kivy?,1
+New to Python. Is this an inconsistency of the 'round()' function?,0
+"Introducing cbor-diag, a simple tool dor CBOR Diagnostic Notation",0
+How to Use Memgraph With Python and Jupyter Notebooks,0
+10 Essential Python code snippets for projects,0
+How to speed up bulkinsert in python?,0
+Everything you need to know about pandas 2.0.0!,0
+How do I advance as a Python Programmer in general?,0
+Develop and Invoke AWS Lambda Functions programmatically.,0
+No-async async with Python,0
+GitHub - INeddHelp/PyLockAES: PyLockAES is a Python library that provides encryption and decryption functionality using AES-CBC mode.,0
+Dad Joke Collector for my Blog,1
+Automate Exploratory Data Analysis on Databases,0
+comma-python: a persistent Jupyter python kernel for your shell,0
+Made a basic system monitor with pygame,0
+A small toolkit used for collecting responses from ChatGPT for research / data analysis,0
+Optimizing Database Interactions in Python: SQLAlchemy Best Practices,1
+Saturday Daily Thread: Resource Request and Sharing! Daily Thread,1
+Top 5 VSCode Extensions for Python Developers in 2023!,1
+PyVibe: Generate styled HTML pages from Python,0
+I re-implemented JupyterHub the Kubernetes way,0
+"structura, CPython library written in C",0
+"2,000 free sign ups available for the ""Automate the Boring Stuff with Python"" online course. (April 2023)",1
+How to revert a migration in django?,0
+A Simple Python Guide to Concatenating DataFrames,0
+Is it possible to include C code in a package published to PyPi while not limiting compatibility?,0
+Datapane - Build internal data products in 100% Python,0
+"""I prefer to use Panel for my data apps. Here is why."" by Marc-Skov Madsen... guys/girls/non-binary: do not sleep on this deeply detailed article.",0
+Package gpt-magic enables in-context generation of IPython/Jupyter code cells using GPT models API. 0.2.0 adds memory with “%gpt -c”,0
+How to Install Python on MacOS,0
+Interactive command line ai tool powered by ChatGPT (ChatGPT 3.5),0
+A thought on getting rid of the GIL in CPython,0
+Looking for Tips / Educational Newsletter for Intermediate to Advanced Python,1
+NetworkX 3.1 released,0
+Asks the Textualize developers anything,0
+A Comprehensive Guide to Auto-Encoders in Neural Networks,1
+PyVibe: Easily create styled web pages with Python,1
+A 'No JS' Solution for Dynamic Search in Django,1
+Clicknium tutorial: automate Windows application and web browser in Python,0
+Favorite/best PyCharm plugins?,0
+Learn how to build a simple TODO app that runs in the terminal with Python 🐍 and Textual. 🚀,0
+Pandas 2.0 RC1 has been published. Have you tried it? What do you think?,0
+TechCrunch | Python 4 To Be Renamed to Viper And Introduce TypeScript support,1
+Use OpenAI's DALL-E for free,1
+Simple manga downloader with Python,0
+GitHub - npiv/chatblade: A CLI Swiss Army Knife for ChatGPT,0
+Black for web development?,0
+GitHub - larswaechter/schlaumeier: Automatically solve Android quiz games using OpenCV & ChatGPT🧙‍♂️,1
+Monday Daily Thread: Project ideas!,0
+How I was able to identify 3 bottlenecks in WebAssembly python bindings,0
+A pure python object change & history tracker,0
+How we run our Python tests in hundreds of environments really fast,0
+Python type hints (type system) unpythonic,0
+I made a 2D Shadow system with Ray Tracing,0
+Export geopandas df to .geojson,0
+Chat GPT in Blender,0
+NASA's Cassini - Cosmic Dust Analyzer: How to calibrate a space instrument,0
+Does anyone have recommendations on where to stay for PyData Seattle?,0
+pandas 2.0 is coming out soon,0
+StrictPython,0
+Join us for PyDay!,1
+"🔢🐍 NumPy 1.24.0 Release: Improved Data Handling, Execution Speed, and Documentation",1
+Very interesting and descriptive trading article with python,1
+Inspect interactively any object in Colab,0
+"Hi r/py I'm working on a Python library for PySimpleGUI to design UIs with a Live Preview, giving a low barrier to entry. I hope you like it!",1
+How to check if pip package is malicious,0
+Complete Python Tutorial for Absolute Beginners,0
+Easy Python Benchmarking Tool - PyBench,1
+What is something you wish there was a Python module for?,1
+reKarma - my first public app ever. MacOS menu bar app that checks reddit's karma of given user.,0
+10 highly effective BI dashboards that you can build with Python,1
+"Pygame, ren'py, or python which is best for game making?",1
+py-template: one-click Python environment v0.2.0 update,0
+Textual 0.17.0 adds translucent screens and Option List widget,0
+Use maximum PC Hardware Resources,0
+Which Jupyter Notebook service has worked best for you?,1
+NASA's Cassini - Cosmic Dust Analyzer: A proper calibration!,0
+Performant csv parsers,0
+Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates,1
+PyLLaMACpp: A simple way to run llama.cpp + Python bindings,0
+Free Python event,1
