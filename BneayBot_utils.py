@@ -122,3 +122,48 @@ def prepare_data(batch_size, inputs_outputs, inputs_outputs_tokenizer, max_lengt
 
   else:
     print("Given `inputs` length is not same as `outputs` length")
+
+
+def plot_attention_weights(inputs_outputs_tokenizer, attention, sentence, result, layer):
+  inputs_tokenizer, outputs_tokenizer = inputs_outputs_tokenizer
+  fig = plt.figure(figsize=(16, 8))
+  
+  sentence = inputs_tokenizer.encode(sentence)
+  
+  attention = tf.squeeze(attention[layer], axis=0)
+  
+  for head in range(attention.shape[0]):
+    ax = fig.add_subplot(2, 4, head+1)
+    
+    # plot the attention weights
+    ax.matshow(attention[head][:-1, :], cmap='viridis')
+
+    fontdict = {'fontsize': 10}
+    
+    ax.set_xticks(range(len(sentence)+2))
+    ax.set_yticks(range(len(result)))
+    
+    ax.set_ylim(len(result)-1.5, -0.5)
+        
+    ax.set_xticklabels(
+        ['<start>']+[inputs_tokenizer.decode([i]) for i in sentence]+['<end>'], 
+        fontdict=fontdict, rotation=90)
+    
+    ax.set_yticklabels([outputs_tokenizer.decode([i]) for i in result 
+                        if i < outputs_tokenizer.vocab_size], 
+                       fontdict=fontdict)
+    
+    ax.set_xlabel('Head {}'.format(head+1))
+  
+  plt.tight_layout()
+  plt.show()
+
+if __name__ == '__main__':
+  # inputs, outputs = pull_twitter("./data/chat.txt")
+  # print(f"Total inputs: {len(inputs)}, Total outputs: {len(outputs)}")
+  # for i in range(20):
+  #   print(f"""Input: {inputs[i].decode("utf-8")}""")
+  #   print(f"""Output: {outputs[i].decode("utf-8")}""")
+
+  srt_dt = sort_data(CONVERSE_FILEPATH, LINES_FILEPATH)
+  print(srt_dt[0])
