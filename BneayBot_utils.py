@@ -159,11 +159,11 @@ def plot_attention_weights(inputs_outputs_tokenizer, attention, sentence, result
   plt.show()
 
 if __name__ == '__main__':
-  # inputs, outputs = pull_twitter("./data/chat.txt")
-  # print(f"Total inputs: {len(inputs)}, Total outputs: {len(outputs)}")
-  # for i in range(20):
-  #   print(f"""Input: {inputs[i].decode("utf-8")}""")
-  #   print(f"""Output: {outputs[i].decode("utf-8")}""")
+  inputs, outputs = pull_twitter("./data/chat.txt")
+  print(f"Total inputs: {len(inputs)}, Total outputs: {len(outputs)}")
+  for i in range(20):
+    print(f"""Input: {inputs[i].decode("utf-8")}""")
+    print(f"""Output: {outputs[i].decode("utf-8")}""")
 
   srt_dt = sort_data(CONVERSE_FILEPATH, LINES_FILEPATH)
   print(srt_dt[0])
